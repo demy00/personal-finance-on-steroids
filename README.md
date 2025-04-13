@@ -1,1 +1,1 @@
-# finance-app-on-steroids
+# personal-finance-on-steroids
